@@ -1,5 +1,5 @@
 ---
-name: socializtion-practice
+name: socialization-practice
 description: 社会化高手培养技能，用于社交能力学习和练习。当用户询问社交问题、想要练习沟通技巧、或进行社交场景训练时触发。包含两种模式：询问模式（回答问题）和训练模式（做题练习）。
 ---
 

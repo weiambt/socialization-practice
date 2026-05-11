@@ -243,7 +243,7 @@ This skill works with Claude Code or compatible AI assistants.
 
 ```bash
 # Copy the skill folder to your skills directory
-cp -r socializtion-practice/ ~/.claude/skills/
+cp -r socialization-practice/ ~/.claude/skills/
 ```
 
 ## Credits

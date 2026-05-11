@@ -245,8 +245,8 @@
 
 ```bash
 # 将 skill 文件夹复制到你的 skills 目录
-git clone https://github.com/weiambt/socializtion-practice.git
-cp -r socializtion-practice/ ~/.claude/skills/
+git clone https://github.com/weiambt/socialization-practice.git
+cp -r socialization-practice/ ~/.claude/skills/
 ```
 
 ## 怎么用
@@ -256,7 +256,7 @@ cp -r socializtion-practice/ ~/.claude/skills/
 输入：
 
 ```
-/socializtion-practice 家里的长辈和我说：你什么时候结婚，人生大事什么时候定下来啊
+/socialization-practice 家里的长辈和我说：你什么时候结婚，人生大事什么时候定下来啊
 ```
 
 输出：
@@ -345,7 +345,7 @@ cp -r socializtion-practice/ ~/.claude/skills/
 输入
 
 ```
-/socializtion-practice 我想训练一下接话能力，日常闲聊场景的
+/socialization-practice 我想训练一下接话能力，日常闲聊场景的
 ```
 
 输出：

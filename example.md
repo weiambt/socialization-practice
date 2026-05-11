@@ -5,7 +5,7 @@
 输入：
 
 ```
-/socializtion-practice 家里的长辈和我说：你什么时候结婚，人生大事什么时候定下来啊
+/socialization-practice 家里的长辈和我说：你什么时候结婚，人生大事什么时候定下来啊
 ```
 
 输出：
@@ -91,7 +91,7 @@
 输入：
 
 ```
-/socializtion-practice 一个不熟的同事叫我现在就去吃饭，但是我不想去
+/socialization-practice 一个不熟的同事叫我现在就去吃饭，但是我不想去
 ```
 
 输出：
