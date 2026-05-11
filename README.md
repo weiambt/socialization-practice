@@ -242,7 +242,8 @@ Training mode transforms passive learning into active practice. Through scenario
 This skill works with Claude Code or compatible AI assistants.
 
 ```bash
-# Copy the skill folder to your skills directory
+# Clone the repository and copy to skills directory
+git clone https://github.com/weiambt/socialization-practice.git
 cp -r socialization-practice/ ~/.claude/skills/
 ```
 

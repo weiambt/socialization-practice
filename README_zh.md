@@ -244,9 +244,8 @@
 本技能与 Claude Code 或兼容的 AI 助手配合使用。
 
 ```bash
-# 将 skill 文件夹复制到你的 skills 目录
+# Clone the repository
 git clone https://github.com/weiambt/socialization-practice.git
-cp -r socialization-practice/ ~/.claude/skills/
 ```
 
 ## 怎么用
