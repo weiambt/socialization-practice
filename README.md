@@ -4,7 +4,7 @@
 
 > Master the art of human interaction through structured learning and deliberate practice.
 
-**English**/ [中文](./README_zh.md)
+**English** | [中文](./README_zh.md)
 
 ## What It Is
 
